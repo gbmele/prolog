@@ -1,4 +1,4 @@
-%% IMPORTANT - For best results use SWI Prolog.
+%% IMPORTANT - For best results use SWI Prolog.  
 
 %% Facts for all the flights
 
